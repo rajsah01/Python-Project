@@ -1,0 +1,6 @@
+GrLivArea,OverallQual,TotalBsmtSF,GarageCars,GarageArea,YearBuilt,SalePrice,Neighborhood,LotFrontage,GarageType,Alley,PoolQC,Fence,MiscFeature
+1710,7,856,2,548,2003,208500,CollgCr,65.0,Attchd,,,,
+1262,6,1262,2,460,1976,181500,Veenker,80.0,Attchd,,,,
+1786,7,920,2,608,2001,223500,CollgCr,68.0,Attchd,,,,
+1717,7,756,3,642,1915,140000,Crawfor,60.0,Detchd,,,,
+2198,8,1145,3,836,2000,250000,NoRidge,84.0,Attchd,,,,
